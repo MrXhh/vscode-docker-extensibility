@@ -21,7 +21,7 @@ resources:
     - repository: azExtTemplates
       type: github
       name: microsoft/vscode-azuretools
-      ref: main
+      ref: bmw/1es6
       endpoint: GitHub-AzureTools # The service connection to use when accessing this repository
 
 # Use those templates
